@@ -1,0 +1,8 @@
+[package]
+name = "nearly-divisionless"
+version = "0.1.0"
+authors = ["Antonio Scandurra <as-cii@github.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
